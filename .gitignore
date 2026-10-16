@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+verification_results.json
+flow_training_results.json
