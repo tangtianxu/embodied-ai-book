@@ -3,3 +3,9 @@ __pycache__/
 .venv/
 verification_results.json
 flow_training_results.json
+results/
+*_results.json
+joint_response.csv
+*.npz
+*.pt
+*.pth
